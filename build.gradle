@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-//        releaseVersionCode 5
+//        releaseVersionCode 2
 
 android {
     compileSdkVersion 28
